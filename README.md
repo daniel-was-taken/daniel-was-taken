@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in playing video games
-- 🌱 I’m currently learning about mobile development.
+- 👀 I’m interested app and web development.
+- 🌱 I’m currently learning about machine learning.
 - 📫 How to reach me https://www.linkedin.com/in/daniel-ferreira-1a4185238
 
 <!---
