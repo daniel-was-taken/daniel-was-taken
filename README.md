@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Daniel<br>👀 I’m interested full stack development.<br>🧑‍💻 I’m currently learning about machine learning.<br>🔭 I’m working on my portfolio website. 
+👋 Hi, I’m Daniel<br>👀 I’m interested full stack development.<br>🧑‍💻 I’m currently learning about machine learning.<br>
 
 
 ## 🌐 Socials:
