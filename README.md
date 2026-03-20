@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Daniel<br>👀 I’m interested software development.<br>🧑‍💻 I’m currently learning about machine learning.<br>
+👋 Hi, I’m Daniel<br>👀 I’m build stuff.<br>🧑‍💻 I’m currently learning about ai.<br>
 
 
 ## 🌐 Socials:
