@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Daniel<br>👀 I build stuff.<br>🧑‍💻
+👋 Hi, I’m Daniel<br>👀 I build stuff
 
 
 ## 🌐 Socials:
